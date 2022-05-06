@@ -4,17 +4,28 @@
 ### Graphic Design Projects
 
 [Project 1 : Blend Image](/sample_page)
-<img src="images/blendimages.png?raw=true"/>
+<img src="images/AvatarMaker.png?raw=true"/>
 
 ---
 [Project 2 model](/pdf/sample_presentation.pdf)
 <img src="images/Hector Rangel p.4.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Double Exposure](http://example.com/)
+<img src="images/doubler exposere.png?raw=true"/>
 
 ---
+[Project 4 Double Exposure](http://example.com/)
+<img src="images/ripped affect.png?raw=true"/>
+
+---
+[Project 5 graffiti](http://example.com/)
+<img src="images/graffiti?raw=true"/>
+
+---
+[Project 6 galaxy cat](http://example.com/)
+<img src="images/glaxy cat.jpg?raw=true"/>
+
 
 ### Category Name 2
 
