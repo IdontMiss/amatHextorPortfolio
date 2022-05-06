@@ -3,7 +3,7 @@
 
 ### Graphic Design Projects
 
-[Project 1 : Blend Image](/sample_page)
+[Project 1 : Avatar](/sample_page)
 <img src="images/AvatarMaker.png?raw=true"/>
 
 ---
