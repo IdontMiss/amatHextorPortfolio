@@ -7,7 +7,7 @@
 <img src="images/blendimages.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 model](/pdf/sample_presentation.pdf)
 <img src="images/Hector Rangel p.4.jpg?raw=true"/>
 
 ---
