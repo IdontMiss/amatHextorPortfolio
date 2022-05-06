@@ -20,22 +20,13 @@
 
 ---
 [Project 5 graffiti](http://example.com/)
-<img src="images/graffiti?raw=true"/>
+<img src="images/god tier.png?raw=true"/>
 
 ---
 [Project 6 galaxy cat](http://example.com/)
 <img src="images/glaxy cat.jpg?raw=true"/>
 
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
