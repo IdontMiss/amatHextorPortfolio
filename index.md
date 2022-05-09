@@ -26,6 +26,10 @@
 [Project 6 galaxy cat](http://example.com/)
 <img src="images/glaxy cat.jpg?raw=true"/>
 
+---
+[Project 7 Favicon](http://example.com/)
+<img src="images/icon.png?raw=true"/>
+
 
 
 
